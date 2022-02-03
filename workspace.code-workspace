@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\visual studio\\client"
+		},
+		{
+			"path": "..\\..\\visual studio\\server"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "client"
+	}
+}
